@@ -1,0 +1,1 @@
+turtle.write(" Iota Aquarii", font=("Calibri", 10, "normal"), align="left")
